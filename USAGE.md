@@ -1,7 +1,7 @@
 # USAGE.md
 
 ## 📌 Overview
-Campus Course & Records Manager (CCRM) is a simple **console-based Java application** that lets an institute manage:
+Student Course Manager is a simple **console-based Java application** that lets an institute manage:
 - Students (add, list, update, deactivate)
 - Courses (add, list, search/filter, update, deactivate)
 - Enrollments (enroll, unenroll, record grades, transcripts with GPA)
